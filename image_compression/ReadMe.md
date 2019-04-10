@@ -1,4 +1,4 @@
-Check out ReadMe.pdf for some images and things
+Check out ReadMe.pdf for some images, correctly compiled Latex and things
 
 # Image_Compression
 
