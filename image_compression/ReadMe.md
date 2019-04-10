@@ -1,21 +1,16 @@
-#Image_Compression
+Check out ReadMe.pdf for some images and things
 
-This is an algorithm meant to compress images using a quadtree and a process of pruning the tree based on similarity. 
+# Image_Compression
 
-Images are split into quadtrees recursively using the following splitting technique
-
-![image-20190410100544742](/Users/owensheekey/Library/Application Support/typora-user-images/image-20190410100544742.png)
-
-
+This is an algorithm meant to compress images using a quadtree and a process of pruning the tree based on similarity between nodes and children.
 
 
 
 A process of entropy minimization is run to find the ideal splitting point 
 
 Where entropy is defined as follows
-$$
+
 -\sum_{i = 0}^{35} p_i \log_2p_i
-$$
 
 
 Where $p_i$ indicates the *fraction* of pixels within a given range of hues defined by
