@@ -25,4 +25,4 @@ https://www.ugrad.cs.ubc.ca/~cs221/2018W2/mps/p3/
 
 
 
-**Note**    —    I wrote this algorithm as an assignment for one of my CS classes, not all of the code is mine (much of it is not).
+**Note**    —    I wrote this algorithm as an assignment for one of my CS classes, not all of the code is mine (much of it is not). Also, of course, the ideas behind the algorithm are definitely not mine.
